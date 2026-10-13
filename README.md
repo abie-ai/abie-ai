@@ -1,16 +1,42 @@
-## Hi there 👋
+# ֎𝓵𝓵𝓶✨ abie-ai
 
-<!--
-**abie-ai/abie-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Generative AI · Knowledge Systems · AI Engineering**
 
-Here are some ideas to get you started:
+🤖 Building intelligent systems grounded in knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Core areas
+
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>🤖 GenAI\</h3>
+&#x20;     LLMs, agents and generation
+&#x20;   \</td>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>🔎 RAG\</h3>
+&#x20;     Retrieval-augmented generation
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>⚡ CAG\</h3>
+&#x20;     Context and caching strategies
+&#x20;   \</td>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>🕸️ KAG\</h3>
+&#x20;     Knowledge graphs and reasoning
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>🧩 AI Agents\</h3>
+&#x20;     Tools, workflows and MCP
+&#x20;   \</td>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>🎙️ Speech AI\</h3>
+&#x20;     Voice interfaces and Ethiopian languages
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
