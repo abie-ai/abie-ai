@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abebe!
+# ✧˖° Hi, I'm Abebe!
 
-**Software Engineer focused on Generative AI, LLM Applications, and Speech Technology.**
+ai✨ **Software Engineer focused on Gen֎🇦🇮, LLM Applications, and Speech Technology.**
 
 ## 🧠 Areas of Interest
 
